@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image Manipulations</string>
+    <string name="action_rgba">Preview RGBA</string>
+    <string name="action_histograms">Histograms</string>
+    <string name="action_canny">Canny</string>
+    <string name="action_sepia">Sepia</string>
+    <string name="action_sobel">Sobel</string>
+    <string name="action_zoom">Zoom</string>
+    <string name="action_pixelize">Pixelize</string>
+    <string name="action_posterize">Posterize</string>
+</resources>
